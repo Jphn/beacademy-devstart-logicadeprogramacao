@@ -1,0 +1,31 @@
+Troca do PNEU:
+
+Abra a porta do carro
+Saia do carro
+Feche a porta do carro
+Vá até o porta malas
+Abra o porta malas
+Se houver o estepe, a chave de roda e o macaco
+Pegue o estepe
+Leve ele até o pneu a ser trocado
+Volte para o porta malas
+Pegue o macaco e a chave de roda
+Vá até o pneu a ser trocado
+Coloque o macaco sob o veículo
+Use o macaco para levantar o veículo
+Pegue a chave de roda
+Utilize a chave de roda para desparafusar o pneu em questão
+Depois de retirar todos os parafusos, remova a roda
+Pegue o estepe
+Coloque o estepe no lugar da roda retirada
+Utilize a chave de roda para colocar todos os parafusos de volta
+Abaixe a elevação do macaco
+Pegue o macaco e a chave de roda
+Vá até o porta malas
+Guarde
+Volte ao pneu que foi trocado
+Pegue-o
+Vá até o porta malas
+Guarde-o
+Feche o porta malas
+Volte para dentro do carro
