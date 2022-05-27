@@ -11,7 +11,7 @@ Var
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
    para i de 1 ate 50 passo i + 1 faca
-   escreval("2 × ", i, " = ", (2 * i))
+      escreval("2 × ", i, " = ", (2 * i))
    fimpara
 
 Fimalgoritmo
