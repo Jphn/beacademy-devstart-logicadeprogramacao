@@ -8,16 +8,12 @@
 <!-- MAIN -->
 ## LISTA
 
-- [Aula 02](./aula-02/)
-- [Aula 03](./aula-03/)
-- [Aula 04](./aula-04/)
-- [Aula 05](./aula-05/)
-- [Aula 06](./aula-06/)
-- [Aula 07](./aula-07/)
-- [Aula 08](./aula-08/)
-- [Aula 09](./aula-09/)
-- [Aula 10](./aula-10/)
-- [Aula 11](./aula-11/)
+### Aula 08
+
+- [Depósito, Saque e Transferência(PARA)](./deposito-saque-transferencia-para.ALG)
+- [Múltiplos de 2 até 100](./multiplos-de-dois-ate-cem.ALG)
+- [Múltiplos de 3](./multiplos-de-tres.ALG)
+- [Tabuada](./tabuada.ALG)
 
 <!-- /MAIN -->
 <!-- /BODY -->

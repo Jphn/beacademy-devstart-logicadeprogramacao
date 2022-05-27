@@ -8,16 +8,11 @@
 <!-- MAIN -->
 ## LISTA
 
-- [Aula 02](./aula-02/)
-- [Aula 03](./aula-03/)
-- [Aula 04](./aula-04/)
-- [Aula 05](./aula-05/)
-- [Aula 06](./aula-06/)
-- [Aula 07](./aula-07/)
-- [Aula 08](./aula-08/)
-- [Aula 09](./aula-09/)
-- [Aula 10](./aula-10/)
-- [Aula 11](./aula-11/)
+### Aula 07
+
+- [Calculadora](./calculadora.ALG)
+- [Depósito, Saque e Transferência](./deposito-saque-transferencia.ALG)
+- [Área do Quadrado e Triângulo](./quadrado-triangulo.ALG)
 
 <!-- /MAIN -->
 <!-- /BODY -->
