@@ -10,10 +10,10 @@
 
 ### Aula 09
 
-- [Depósito, Saque e Transferência (ENQUANTO)](./deposito-saque-transferencia-emprestimo-enquanto.ALG)
-- [Login (ENQUANTO)](./login-enquanto.ALG)
-- [Operações (ENQUANTO)](./operacoes-enquanto.ALG)
-- [Tabuada (ENQUANTO)](./tabuada-enquanto.ALG)
+- [Depósito, Saque e Transferência](./deposito-saque-transferencia-emprestimo.ALG)
+- [Login](./login.ALG)
+- [Operações](./operacoes.ALG)
+- [Tabuada](./tabuada.ALG)
 
 <!-- /MAIN -->
 <!-- /BODY -->

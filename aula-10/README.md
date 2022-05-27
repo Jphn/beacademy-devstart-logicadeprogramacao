@@ -11,8 +11,8 @@
 ### Aula 10
 
 - [Contador de Idade](./contador-de-idade.ALG)
-- [Login (REPITA ATÉ)](./login-repita-ate.ALG)
-- [Saque (REPITA ATÉ)](./saque-repita-ate.ALG)
+- [Login](./login.ALG)
+- [Saque](./saque.ALG)
 - [Soma dos Cem Primeiros Números](./soma-dos-cem-primeiros-numeros.ALG)
 
 <!-- /MAIN -->

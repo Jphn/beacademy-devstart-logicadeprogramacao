@@ -10,7 +10,7 @@
 
 ### Aula 08
 
-- [Depósito, Saque e Transferência(PARA)](./deposito-saque-transferencia-para.ALG)
+- [Depósito, Saque e Transferência](./deposito-saque-transferencia.ALG)
 - [Múltiplos de 2 até 100](./multiplos-de-dois-ate-cem.ALG)
 - [Múltiplos de 3](./multiplos-de-tres.ALG)
 - [Tabuada](./tabuada.ALG)
